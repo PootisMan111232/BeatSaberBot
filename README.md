@@ -15,3 +15,5 @@ Key Features
 
 Error Mode: Optionally introduces misses, failed hits or bomb hits to simulate real player gameplay (This works very poorly).
 Repeat Saving: Saves repeats in a structured folder (BeatSaberDemos/<song_name>/<difficulty>.bsor) for easy access and compatibility with Beat Saber.
+
+![SampleSmugDance](https://github.com/PootisMan111232/BeatSaberBot/blob/main/SampleSmugDance.gif)
